@@ -1,0 +1,21 @@
+.profile {
+  margin: 20px 50px 30px 50px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.profile_image {
+  border: 2px solid black;
+  width: 300px;
+  height: 300px;
+}
+
+.profile_info {
+  margin-left: 30px;
+}
+
+.teacher_description {
+  margin-left: 80px;
+  margin-right: 80px;
+}
